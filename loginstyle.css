@@ -1,0 +1,20 @@
+body {
+  background: url(medal.png);
+  background-size: cover;
+}
+
+.login-box {
+  color: white;
+  font-family: arial;
+  display: inline-block;
+  padding-top: 270px;
+  padding-left: 50px;
+}
+
+.left {
+  background-color: rgba(211, 211, 211, 0.3);
+}
+
+.right {
+  background-color: rgba(211, 211, 211, 0.3);
+}
